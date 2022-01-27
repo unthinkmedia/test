@@ -32,4 +32,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"1+D}!X}m/l.y2$dHqC{O"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="0UPpxWhkM3pgTEjd_PVK" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"1+D}!X}m/l.y2$dHqC{O"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="0UPpxWhkM3pgTEjd_PVK" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="gameupdate" id="tIC#GE+:~l9rc/^cJ1{]" x="270" y="130"/></xml>
